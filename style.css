@@ -92,7 +92,7 @@ body.theme-dark{
   padding:24px; text-align:center; gap:8px;
 }
 .invited-text{font-size:clamp(18px, 3.2vw, 28px); margin:0}
-.dress{font-size:clamp(18px, 3vw, 26px); margin:6px 0 0}
+.dress{font-size:clamp(18px, 3vw, 26px); margin:6px 0 0; -webkit-text-stroke:1px white;}
 .accent{color:var(--accent); -webkit-text-stroke:1px; text-shadow:none}
 
 /* Divider + wishlists section (below the fold) */
