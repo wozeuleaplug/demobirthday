@@ -93,7 +93,7 @@ body.theme-dark{
 }
 .invited-text{font-size:clamp(18px, 3.2vw, 28px); margin:0}
 .dress{font-size:clamp(18px, 3vw, 26px); margin:6px 0 0}
-.accent{color:var(--accent); -webkit-text-stroke:1px #000}
+.accent{color:var(--accent); -webkit-text-stroke:0.7px #000}
 
 /* Divider + wishlists section (below the fold) */
 .wishlists-wrap{padding:56px 20px 80px; background:#000}
