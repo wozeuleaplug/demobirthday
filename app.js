@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         window.location.href = 'invite.html';
       }else{
         /* Show error, allow unlimited retries */
-        error.textContent = "Вибачте, вас не запрошено";
+        error.textContent = "Неправильно. Спробуйте ще раз.";
         input.select();
       }
     });
